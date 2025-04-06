@@ -1,0 +1,2066 @@
+[
+    {
+        "time": "4:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Samford",
+                "full_name": "Samford Bulldogs"
+            },
+            "home": {
+                "shorthand": "NC Greensboro",
+                "full_name": "Unc Greensboro Spartans"
+            }
+        },
+        "spread": {
+            "away": 1.0,
+            "home": -1.0
+        },
+        "total": {
+            "over/under": 149.0
+        },
+        "moneyline": {
+            "away": -106,
+            "home": -110
+        }
+    },
+    {
+        "time": "4:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Brown",
+                "full_name": "Brown Bears"
+            },
+            "home": {
+                "shorthand": "Dartmouth",
+                "full_name": "Dartmouth Big Green"
+            }
+        },
+        "spread": {
+            "away": 1.5,
+            "home": -1.5
+        },
+        "total": {
+            "over/under": 148.5
+        },
+        "moneyline": {
+            "away": -102,
+            "home": -118
+        }
+    },
+    {
+        "time": "4:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Prairie View",
+                "full_name": "Prairie View Am Panthers"
+            },
+            "home": {
+                "shorthand": "Alcorn St",
+                "full_name": "Alcorn State Braves"
+            }
+        },
+        "spread": {
+            "away": 9.5,
+            "home": -9.5
+        },
+        "total": {
+            "over/under": 141.5
+        },
+        "moneyline": {
+            "away": 380,
+            "home": -500
+        }
+    },
+    {
+        "time": "4:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Howard",
+                "full_name": "Howard Bison"
+            },
+            "home": {
+                "shorthand": "NC Central",
+                "full_name": "North Carolina Central Eagles"
+            }
+        },
+        "spread": {
+            "away": 3.0,
+            "home": -3.0
+        },
+        "total": {
+            "over/under": 156.5
+        },
+        "moneyline": {
+            "away": 134,
+            "home": -163
+        }
+    },
+    {
+        "time": "4:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "S Utah",
+                "full_name": "Southern Utah Thunderbirds"
+            },
+            "home": {
+                "shorthand": "Utah Valley",
+                "full_name": "Utah Valley Wolverines"
+            }
+        },
+        "spread": {
+            "away": 14.5,
+            "home": -14.5
+        },
+        "total": {
+            "over/under": 142.5
+        },
+        "moneyline": {
+            "away": 850,
+            "home": -1450
+        }
+    },
+    {
+        "time": "4:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "UCF",
+                "full_name": "Central Florida Knights"
+            },
+            "home": {
+                "shorthand": "TCU",
+                "full_name": "Texas Christian Horned Frogs"
+            }
+        },
+        "spread": {
+            "away": 3.5,
+            "home": -3.5
+        },
+        "total": {
+            "over/under": 151.0
+        },
+        "moneyline": {
+            "away": 135,
+            "home": -158
+        }
+    },
+    {
+        "time": "4:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Alabama",
+                "full_name": "Alabama Crimson Tide"
+            },
+            "home": {
+                "shorthand": "Tennessee",
+                "full_name": "Tennessee Volunteers"
+            }
+        },
+        "spread": {
+            "away": 4.0,
+            "home": -4.0
+        },
+        "total": {
+            "over/under": 160.0
+        },
+        "moneyline": {
+            "away": 164,
+            "home": -184
+        }
+    },
+    {
+        "time": "4:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Purdue FW",
+                "full_name": "Purdue Fort Wayne Mastodons"
+            },
+            "home": {
+                "shorthand": "Cleveland St",
+                "full_name": "Cleveland State Vikings"
+            }
+        },
+        "spread": {
+            "away": 2.5,
+            "home": -2.5
+        },
+        "total": {
+            "over/under": 148.5
+        },
+        "moneyline": {
+            "away": 124,
+            "home": -148
+        }
+    },
+    {
+        "time": "4:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "USC",
+                "full_name": "Southern California Trojans"
+            },
+            "home": {
+                "shorthand": "Oregon",
+                "full_name": "Oregon Ducks"
+            }
+        },
+        "spread": {
+            "away": 7.0,
+            "home": -7.0
+        },
+        "total": {
+            "over/under": 150.0
+        },
+        "moneyline": {
+            "away": 269,
+            "home": -330
+        }
+    },
+    {
+        "time": "4:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Morgan St",
+                "full_name": "Morgan State Bears"
+            },
+            "home": {
+                "shorthand": "Maryland ES",
+                "full_name": "Maryland Eastern Shore Hawks"
+            }
+        },
+        "spread": {
+            "away": -4.0,
+            "home": 4.0
+        },
+        "total": {
+            "over/under": 150.0
+        },
+        "moneyline": {
+            "away": -175,
+            "home": 145
+        }
+    },
+    {
+        "time": "4:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Coppin St",
+                "full_name": "Coppin State Eagles"
+            },
+            "home": {
+                "shorthand": "Delaware St",
+                "full_name": "Delaware State Hornets"
+            }
+        },
+        "spread": {
+            "away": 10.5,
+            "home": -10.5
+        },
+        "total": {
+            "over/under": 147.5
+        },
+        "moneyline": {
+            "away": 455,
+            "home": -625
+        }
+    },
+    {
+        "time": "4:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Loyola MD",
+                "full_name": "Loyola Md Greyhounds"
+            },
+            "home": {
+                "shorthand": "Navy",
+                "full_name": "Navy Midshipmen"
+            }
+        },
+        "spread": {
+            "away": 4.5,
+            "home": -4.5
+        },
+        "total": {
+            "over/under": 137.5
+        },
+        "moneyline": {
+            "away": 154,
+            "home": -185
+        }
+    },
+    {
+        "time": "4:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Utah St",
+                "full_name": "Utah State Aggies"
+            },
+            "home": {
+                "shorthand": "Colorado St",
+                "full_name": "Colorado State Rams"
+            }
+        },
+        "spread": {
+            "away": 2.0,
+            "home": -2.0
+        },
+        "total": {
+            "over/under": 149.5
+        },
+        "moneyline": {
+            "away": 114,
+            "home": -135
+        }
+    },
+    {
+        "time": "4:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Middle Tenn",
+                "full_name": "Middle Tennessee State Blue Raiders"
+            },
+            "home": {
+                "shorthand": "UTEP",
+                "full_name": "Texas El Paso Miners"
+            }
+        },
+        "spread": {
+            "away": 2.0,
+            "home": -2.0
+        },
+        "total": {
+            "over/under": 146.5
+        },
+        "moneyline": {
+            "away": 117,
+            "home": -137
+        }
+    },
+    {
+        "time": "4:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Lindenwood",
+                "full_name": "Lindenwood Lions"
+            },
+            "home": {
+                "shorthand": "Tenn Tech",
+                "full_name": "Tennessee Tech Golden Eagles"
+            }
+        },
+        "spread": {
+            "away": 4.5,
+            "home": -4.5
+        },
+        "total": {
+            "over/under": 145.5
+        },
+        "moneyline": {
+            "away": 165,
+            "home": -190
+        }
+    },
+    {
+        "time": "4:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Detroit Mercy",
+                "full_name": "Detroit Mercy Titans"
+            },
+            "home": {
+                "shorthand": "Milwaukee",
+                "full_name": "Milwaukee Panthers"
+            }
+        },
+        "spread": {
+            "away": 17.5,
+            "home": -17.5
+        },
+        "total": {
+            "over/under": 145.5
+        },
+        "moneyline": {
+            "away": 1050,
+            "home": -2300
+        }
+    },
+    {
+        "time": "4:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "LIU",
+                "full_name": "Liu Sharks"
+            },
+            "home": {
+                "shorthand": "F Dickinson",
+                "full_name": "Fairleigh Dickinson Knights"
+            }
+        },
+        "spread": {
+            "away": 1.0,
+            "home": -1.0
+        },
+        "total": {
+            "over/under": 135.0
+        },
+        "moneyline": {
+            "away": -108,
+            "home": -112
+        }
+    },
+    {
+        "time": "4:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Yale",
+                "full_name": "Yale Bulldogs"
+            },
+            "home": {
+                "shorthand": "Harvard",
+                "full_name": "Harvard Crimson"
+            }
+        },
+        "spread": {
+            "away": -10.5,
+            "home": 10.5
+        },
+        "total": {
+            "over/under": 144.5
+        },
+        "moneyline": {
+            "away": -564,
+            "home": 429
+        }
+    },
+    {
+        "time": "4:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Loyola Chi",
+                "full_name": "Loyola Chicago Ramblers"
+            },
+            "home": {
+                "shorthand": "Saint Louis",
+                "full_name": "Saint Louis Billikens"
+            }
+        },
+        "spread": {
+            "away": 2.0,
+            "home": -2.0
+        },
+        "total": {
+            "over/under": 142.5
+        },
+        "moneyline": {
+            "away": 114,
+            "home": -135
+        }
+    },
+    {
+        "time": "4:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Texas So",
+                "full_name": "Texas Southern Tigers"
+            },
+            "home": {
+                "shorthand": "Jackson St",
+                "full_name": "Jackson State Tigers"
+            }
+        },
+        "spread": {
+            "away": 3.5,
+            "home": -3.5
+        },
+        "total": {
+            "over/under": 143.5
+        },
+        "moneyline": {
+            "away": 150,
+            "home": -170
+        }
+    },
+    {
+        "time": "4:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Hampton",
+                "full_name": "Hampton Pirates"
+            },
+            "home": {
+                "shorthand": "Towson",
+                "full_name": "Towson Tigers"
+            }
+        },
+        "spread": {
+            "away": 7.0,
+            "home": -7.0
+        },
+        "total": {
+            "over/under": 132.5
+        },
+        "moneyline": {
+            "away": 265,
+            "home": -315
+        }
+    },
+    {
+        "time": "4:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "NC Asheville",
+                "full_name": "Unc Asheville Bulldogs"
+            },
+            "home": {
+                "shorthand": "Winthrop",
+                "full_name": "Winthrop Eagles"
+            }
+        },
+        "spread": {
+            "away": 4.5,
+            "home": -4.5
+        },
+        "total": {
+            "over/under": 164.5
+        },
+        "moneyline": {
+            "away": 150,
+            "home": -180
+        }
+    },
+    {
+        "time": "4:30 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Cincinnati",
+                "full_name": "Cincinnati Bearcats"
+            },
+            "home": {
+                "shorthand": "Houston",
+                "full_name": "Houston Cougars"
+            }
+        },
+        "spread": {
+            "away": 13.0,
+            "home": -13.0
+        },
+        "total": {
+            "over/under": 125.5
+        },
+        "moneyline": {
+            "away": 700,
+            "home": -1100
+        }
+    },
+    {
+        "time": "4:30 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "W Carolina",
+                "full_name": "Western Carolina Catamounts"
+            },
+            "home": {
+                "shorthand": "Mercer",
+                "full_name": "Mercer Bears"
+            }
+        },
+        "spread": {
+            "away": 8.5,
+            "home": -8.5
+        },
+        "total": {
+            "over/under": 158.5
+        },
+        "moneyline": {
+            "away": 317,
+            "home": -397
+        }
+    },
+    {
+        "time": "4:30 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "SE Missouri St",
+                "full_name": "Se Missouri State Redhawks"
+            },
+            "home": {
+                "shorthand": "E Illinois",
+                "full_name": "Eastern Illinois Panthers"
+            }
+        },
+        "spread": {
+            "away": -5.5,
+            "home": 5.5
+        },
+        "total": {
+            "over/under": 136.5
+        },
+        "moneyline": {
+            "away": -225,
+            "home": 185
+        }
+    },
+    {
+        "time": "4:30 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Morehead St",
+                "full_name": "Morehead State Eagles"
+            },
+            "home": {
+                "shorthand": "UT Martin",
+                "full_name": "Tenn Martin Skyhawks"
+            }
+        },
+        "spread": {
+            "away": 5.5,
+            "home": -5.5
+        },
+        "total": {
+            "over/under": 133.5
+        },
+        "moneyline": {
+            "away": 195,
+            "home": -225
+        }
+    },
+    {
+        "time": "4:30 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Little Rock",
+                "full_name": "Little Rock Trojans"
+            },
+            "home": {
+                "shorthand": "SIU Edward",
+                "full_name": "Siu Edwardsville Cougars"
+            }
+        },
+        "spread": {
+            "away": 2.5,
+            "home": -2.5
+        },
+        "total": {
+            "over/under": 136.0
+        },
+        "moneyline": {
+            "away": 128,
+            "home": -148
+        }
+    },
+    {
+        "time": "4:30 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Creighton",
+                "full_name": "Creighton Bluejays"
+            },
+            "home": {
+                "shorthand": "Xavier",
+                "full_name": "Xavier Musketeers"
+            }
+        },
+        "spread": {
+            "away": 2.0,
+            "home": -2.0
+        },
+        "total": {
+            "over/under": 151.5
+        },
+        "moneyline": {
+            "away": 114,
+            "home": -135
+        }
+    },
+    {
+        "time": "4:30 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Le Moyne",
+                "full_name": "Le Moyne Dolphins"
+            },
+            "home": {
+                "shorthand": "Stonehill",
+                "full_name": "Stonehill Skyhawks"
+            }
+        },
+        "spread": {
+            "away": 5.5,
+            "home": -5.5
+        },
+        "total": {
+            "over/under": 146.5
+        },
+        "moneyline": {
+            "away": 218,
+            "home": -274
+        }
+    },
+    {
+        "time": "4:30 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Toledo",
+                "full_name": "Toledo Rockets"
+            },
+            "home": {
+                "shorthand": "Buffalo",
+                "full_name": "Buffalo Bulls"
+            }
+        },
+        "spread": {
+            "away": -7.0,
+            "home": 7.0
+        },
+        "total": {
+            "over/under": 159.5
+        },
+        "moneyline": {
+            "away": -300,
+            "home": 250
+        }
+    },
+    {
+        "time": "4:30 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Hou Christian",
+                "full_name": "Houston Christian Huskies"
+            },
+            "home": {
+                "shorthand": "NW State",
+                "full_name": "Northwestern State Demons"
+            }
+        },
+        "spread": {
+            "away": 4.0,
+            "home": -4.0
+        },
+        "total": {
+            "over/under": 132.0
+        },
+        "moneyline": {
+            "away": 149,
+            "home": -183
+        }
+    },
+    {
+        "time": "4:30 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "W Michigan",
+                "full_name": "Western Michigan Broncos"
+            },
+            "home": {
+                "shorthand": "N Illinois",
+                "full_name": "Northern Illinois Huskies"
+            }
+        },
+        "spread": {
+            "away": -5.0,
+            "home": 5.0
+        },
+        "total": {
+            "over/under": 148.0
+        },
+        "moneyline": {
+            "away": -221,
+            "home": 185
+        }
+    },
+    {
+        "time": "4:30 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "S Indiana",
+                "full_name": "Southern Indiana Screaming Eagles"
+            },
+            "home": {
+                "shorthand": "Tennessee St",
+                "full_name": "Tennessee State Tigers"
+            }
+        },
+        "spread": {
+            "away": 7.5,
+            "home": -7.5
+        },
+        "total": {
+            "over/under": 151.0
+        },
+        "moneyline": {
+            "away": 286,
+            "home": -354
+        }
+    },
+    {
+        "time": "5:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Montana",
+                "full_name": "Montana Grizzlies"
+            },
+            "home": {
+                "shorthand": "Portland St",
+                "full_name": "Portland State Vikings"
+            }
+        },
+        "spread": {
+            "away": 3.0,
+            "home": -3.0
+        },
+        "total": {
+            "over/under": 143.5
+        },
+        "moneyline": {
+            "away": 138,
+            "home": -162
+        }
+    },
+    {
+        "time": "5:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "SMU",
+                "full_name": "Southern Methodist Mustangs"
+            },
+            "home": {
+                "shorthand": "Stanford",
+                "full_name": "Stanford Cardinal"
+            }
+        },
+        "spread": {
+            "away": 1.0,
+            "home": -1.0
+        },
+        "total": {
+            "over/under": 150.5
+        },
+        "moneyline": {
+            "away": 101,
+            "home": -118
+        }
+    },
+    {
+        "time": "5:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Idaho St",
+                "full_name": "Idaho State Bengals"
+            },
+            "home": {
+                "shorthand": "E Washington",
+                "full_name": "Eastern Washington Eagles"
+            }
+        },
+        "spread": {
+            "away": -4.0,
+            "home": 4.0
+        },
+        "total": {
+            "over/under": 143.5
+        },
+        "moneyline": {
+            "away": -180,
+            "home": 150
+        }
+    },
+    {
+        "time": "5:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Weber St",
+                "full_name": "Weber State Wildcats"
+            },
+            "home": {
+                "shorthand": "Idaho",
+                "full_name": "Idaho Vandals"
+            }
+        },
+        "spread": {
+            "away": 6.0,
+            "home": -6.0
+        },
+        "total": {
+            "over/under": 144.5
+        },
+        "moneyline": {
+            "away": 215,
+            "home": -265
+        }
+    },
+    {
+        "time": "5:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "North Dakota",
+                "full_name": "North Dakota Fighting Hawks"
+            },
+            "home": {
+                "shorthand": "South Dakota",
+                "full_name": "South Dakota Coyotes"
+            }
+        },
+        "spread": {
+            "away": 4.0,
+            "home": -4.0
+        },
+        "total": {
+            "over/under": 175.5
+        },
+        "moneyline": {
+            "away": 150,
+            "home": -180
+        }
+    },
+    {
+        "time": "5:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "CS Bakersfield",
+                "full_name": "Csu Bakersfield Roadrunners"
+            },
+            "home": {
+                "shorthand": "Cal Poly",
+                "full_name": "Cal Poly Slo Mustangs"
+            }
+        },
+        "spread": {
+            "away": 3.5,
+            "home": -3.5
+        },
+        "total": {
+            "over/under": 161.5
+        },
+        "moneyline": {
+            "away": 149,
+            "home": -169
+        }
+    },
+    {
+        "time": "5:15 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Notre Dame",
+                "full_name": "Notre Dame Fighting Irish"
+            },
+            "home": {
+                "shorthand": "Wake Forest",
+                "full_name": "Wake Forest Demon Deacons"
+            }
+        },
+        "spread": {
+            "away": 9.5,
+            "home": -9.5
+        },
+        "total": {
+            "over/under": 138.5
+        },
+        "moneyline": {
+            "away": 360,
+            "home": -470
+        }
+    },
+    {
+        "time": "5:30 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "SE Louisiana",
+                "full_name": "Southeastern Louisiana Lions"
+            },
+            "home": {
+                "shorthand": "Texas A&M-CC",
+                "full_name": "Texas Am Cc Islanders"
+            }
+        },
+        "spread": {
+            "away": 2.5,
+            "home": -2.5
+        },
+        "total": {
+            "over/under": 138.5
+        },
+        "moneyline": {
+            "away": 124,
+            "home": -151
+        }
+    },
+    {
+        "time": "5:30 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "New Orleans",
+                "full_name": "New Orleans Privateers"
+            },
+            "home": {
+                "shorthand": "UT Rio Grande",
+                "full_name": "Texas Rio Grande Valley Vaqueros"
+            }
+        },
+        "spread": {
+            "away": 10.5,
+            "home": -10.5
+        },
+        "total": {
+            "over/under": 155.5
+        },
+        "moneyline": {
+            "away": 471,
+            "home": -684
+        }
+    },
+    {
+        "time": "5:30 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Southern",
+                "full_name": "Southern Jaguars"
+            },
+            "home": {
+                "shorthand": "Bethune",
+                "full_name": "Bethune Cookman Wildcats"
+            }
+        },
+        "spread": {
+            "away": -2.5,
+            "home": 2.5
+        },
+        "total": {
+            "over/under": 141.5
+        },
+        "moneyline": {
+            "away": -142,
+            "home": 120
+        }
+    },
+    {
+        "time": "5:30 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Louisiana Tech",
+                "full_name": "Louisiana Tech Bulldogs"
+            },
+            "home": {
+                "shorthand": "Sam Houston",
+                "full_name": "Sam Houston State Bearkats"
+            }
+        },
+        "spread": {
+            "away": 2.0,
+            "home": -2.0
+        },
+        "total": {
+            "over/under": 140.0
+        },
+        "moneyline": {
+            "away": 116,
+            "home": -136
+        }
+    },
+    {
+        "time": "6:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Nicholls",
+                "full_name": "Nicholls State Colonels"
+            },
+            "home": {
+                "shorthand": "SF Austin",
+                "full_name": "Stephen F Austin Lumberjacks"
+            }
+        },
+        "spread": {
+            "away": 1.0,
+            "home": -1.0
+        },
+        "total": {
+            "over/under": 140.5
+        },
+        "moneyline": {
+            "away": 100,
+            "home": -120
+        }
+    },
+    {
+        "time": "6:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Penn",
+                "full_name": "Pennsylvania Quakers"
+            },
+            "home": {
+                "shorthand": "Columbia",
+                "full_name": "Columbia Lions"
+            }
+        },
+        "spread": {
+            "away": 3.0,
+            "home": -3.0
+        },
+        "total": {
+            "over/under": 154.5
+        },
+        "moneyline": {
+            "away": 130,
+            "home": -155
+        }
+    },
+    {
+        "time": "6:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Missouri",
+                "full_name": "Missouri Tigers"
+            },
+            "home": {
+                "shorthand": "Vanderbilt",
+                "full_name": "Vanderbilt Commodores"
+            }
+        },
+        "spread": {
+            "away": -2.0,
+            "home": 2.0
+        },
+        "total": {
+            "over/under": 157.5
+        },
+        "moneyline": {
+            "away": -142,
+            "home": 120
+        }
+    },
+    {
+        "time": "6:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Indiana",
+                "full_name": "Indiana Hoosiers"
+            },
+            "home": {
+                "shorthand": "Washington",
+                "full_name": "Washington Huskies"
+            }
+        },
+        "spread": {
+            "away": -1.5,
+            "home": 1.5
+        },
+        "total": {
+            "over/under": 144.5
+        },
+        "moneyline": {
+            "away": -126,
+            "home": 108
+        }
+    },
+    {
+        "time": "6:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Pittsburgh",
+                "full_name": "Pittsburgh Panthers"
+            },
+            "home": {
+                "shorthand": "Louisville",
+                "full_name": "Louisville Cardinals"
+            }
+        },
+        "spread": {
+            "away": 10.5,
+            "home": -10.5
+        },
+        "total": {
+            "over/under": 150.5
+        },
+        "moneyline": {
+            "away": 460,
+            "home": -600
+        }
+    },
+    {
+        "time": "6:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "W Kentucky",
+                "full_name": "Western Kentucky Hilltoppers"
+            },
+            "home": {
+                "shorthand": "New Mexico St",
+                "full_name": "New Mexico State Aggies"
+            }
+        },
+        "spread": {
+            "away": 4.0,
+            "home": -4.0
+        },
+        "total": {
+            "over/under": 142.5
+        },
+        "moneyline": {
+            "away": 150,
+            "home": -180
+        }
+    },
+    {
+        "time": "6:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "C Connecticut",
+                "full_name": "Central Conn State Blue Devils"
+            },
+            "home": {
+                "shorthand": "Wagner",
+                "full_name": "Wagner Seahawks"
+            }
+        },
+        "spread": {
+            "away": -6.5,
+            "home": 6.5
+        },
+        "total": {
+            "over/under": 122.5
+        },
+        "moneyline": {
+            "away": -298,
+            "home": 240
+        }
+    },
+    {
+        "time": "6:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Rhode Island",
+                "full_name": "Rhode Island Rams"
+            },
+            "home": {
+                "shorthand": "UMass",
+                "full_name": "Massachusetts Minutemen"
+            }
+        },
+        "spread": {
+            "away": 2.0,
+            "home": -2.0
+        },
+        "total": {
+            "over/under": 155.5
+        },
+        "moneyline": {
+            "away": 120,
+            "home": -142
+        }
+    },
+    {
+        "time": "6:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Grambling",
+                "full_name": "Grambling State Tigers"
+            },
+            "home": {
+                "shorthand": "Florida A&M",
+                "full_name": "Florida Am Rattlers"
+            }
+        },
+        "spread": {
+            "away": 2.5,
+            "home": -2.5
+        },
+        "total": {
+            "over/under": 133.5
+        },
+        "moneyline": {
+            "away": 124,
+            "home": -148
+        }
+    },
+    {
+        "time": "6:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "La Salle",
+                "full_name": "La Salle Explorers"
+            },
+            "home": {
+                "shorthand": "G Washington",
+                "full_name": "George Washington Revolutionaries"
+            }
+        },
+        "spread": {
+            "away": 9.5,
+            "home": -9.5
+        },
+        "total": {
+            "over/under": 143.5
+        },
+        "moneyline": {
+            "away": 385,
+            "home": -475
+        }
+    },
+    {
+        "time": "6:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Elon",
+                "full_name": "Elon University Phoenix"
+            },
+            "home": {
+                "shorthand": "Stony Brook",
+                "full_name": "Stony Brook Seawolves"
+            }
+        },
+        "spread": {
+            "away": -5.5,
+            "home": 5.5
+        },
+        "total": {
+            "over/under": 137.5
+        },
+        "moneyline": {
+            "away": -250,
+            "home": 205
+        }
+    },
+    {
+        "time": "6:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Campbell",
+                "full_name": "Campbell Fighting Camels"
+            },
+            "home": {
+                "shorthand": "Charleston",
+                "full_name": "Charleston Cougars"
+            }
+        },
+        "spread": {
+            "away": 7.5,
+            "home": -7.5
+        },
+        "total": {
+            "over/under": 146.5
+        },
+        "moneyline": {
+            "away": 266,
+            "home": -326
+        }
+    },
+    {
+        "time": "7:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Arizona St",
+                "full_name": "Arizona State Sun Devils"
+            },
+            "home": {
+                "shorthand": "Utah",
+                "full_name": "Utah Utes"
+            }
+        },
+        "spread": {
+            "away": 8.0,
+            "home": -8.0
+        },
+        "total": {
+            "over/under": 148.0
+        },
+        "moneyline": {
+            "away": 300,
+            "home": -370
+        }
+    },
+    {
+        "time": "7:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Florida St",
+                "full_name": "Florida State Seminoles"
+            },
+            "home": {
+                "shorthand": "Duke",
+                "full_name": "Duke Blue Devils"
+            }
+        },
+        "spread": {
+            "away": 22.0,
+            "home": -22.0
+        },
+        "total": {
+            "over/under": 149.5
+        },
+        "moneyline": {
+            "away": 2000,
+            "home": -6500
+        }
+    },
+    {
+        "time": "7:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "AR-Pine Bluff",
+                "full_name": "Arkansas Pine Bluff Golden Lions"
+            },
+            "home": {
+                "shorthand": "Miss Valley St",
+                "full_name": "Mississippi Valley State Delta Devils"
+            }
+        },
+        "spread": {
+            "away": -9.5,
+            "home": 9.5
+        },
+        "total": {
+            "over/under": 142.5
+        },
+        "moneyline": {
+            "away": -562,
+            "home": 404
+        }
+    },
+    {
+        "time": "7:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Boise St",
+                "full_name": "Boise State Broncos"
+            },
+            "home": {
+                "shorthand": "Fresno St",
+                "full_name": "Fresno State Bulldogs"
+            }
+        },
+        "spread": {
+            "away": -16.0,
+            "home": 16.0
+        },
+        "total": {
+            "over/under": 145.5
+        },
+        "moneyline": {
+            "away": -2300,
+            "home": 1100
+        }
+    },
+    {
+        "time": "7:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Delaware",
+                "full_name": "Delaware Blue Hens"
+            },
+            "home": {
+                "shorthand": "NC Wilmington",
+                "full_name": "Unc Wilmington Seahawks"
+            }
+        },
+        "spread": {
+            "away": 11.0,
+            "home": -11.0
+        },
+        "total": {
+            "over/under": 154.5
+        },
+        "moneyline": {
+            "away": 500,
+            "home": -700
+        }
+    },
+    {
+        "time": "7:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "McNeese",
+                "full_name": "Mcneese State Cowboys"
+            },
+            "home": {
+                "shorthand": "Lamar",
+                "full_name": "Lamar Cardinals"
+            }
+        },
+        "spread": {
+            "away": -9.0,
+            "home": 9.0
+        },
+        "total": {
+            "over/under": 135.5
+        },
+        "moneyline": {
+            "away": -413,
+            "home": 312
+        }
+    },
+    {
+        "time": "7:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Oakland",
+                "full_name": "Oakland Golden Grizzlies"
+            },
+            "home": {
+                "shorthand": "Green Bay",
+                "full_name": "Green Bay Phoenix"
+            }
+        },
+        "spread": {
+            "away": -8.5,
+            "home": 8.5
+        },
+        "total": {
+            "over/under": 148.5
+        },
+        "moneyline": {
+            "away": -400,
+            "home": 320
+        }
+    },
+    {
+        "time": "8:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Marquette",
+                "full_name": "Marquette Golden Eagles"
+            },
+            "home": {
+                "shorthand": "Georgetown",
+                "full_name": "Georgetown Hoyas"
+            }
+        },
+        "spread": {
+            "away": -8.5,
+            "home": 8.5
+        },
+        "total": {
+            "over/under": 147.5
+        },
+        "moneyline": {
+            "away": -425,
+            "home": 330
+        }
+    },
+    {
+        "time": "8:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Georgia",
+                "full_name": "Georgia Bulldogs"
+            },
+            "home": {
+                "shorthand": "Texas",
+                "full_name": "Texas Longhorns"
+            }
+        },
+        "spread": {
+            "away": 5.0,
+            "home": -5.0
+        },
+        "total": {
+            "over/under": 145.5
+        },
+        "moneyline": {
+            "away": 195,
+            "home": -233
+        }
+    },
+    {
+        "time": "8:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "UCSB",
+                "full_name": "Uc Santa Barbara Gauchos"
+            },
+            "home": {
+                "shorthand": "CS Northridge",
+                "full_name": "Csu Northridge Matadors"
+            }
+        },
+        "spread": {
+            "away": 5.0,
+            "home": -5.0
+        },
+        "total": {
+            "over/under": 148.5
+        },
+        "moneyline": {
+            "away": 184,
+            "home": -219
+        }
+    },
+    {
+        "time": "8:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Oklahoma St",
+                "full_name": "Oklahoma State Cowboys"
+            },
+            "home": {
+                "shorthand": "Baylor",
+                "full_name": "Baylor Bears"
+            }
+        },
+        "spread": {
+            "away": 12.5,
+            "home": -12.5
+        },
+        "total": {
+            "over/under": 152.5
+        },
+        "moneyline": {
+            "away": 675,
+            "home": -1050
+        }
+    },
+    {
+        "time": "8:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Kansas City",
+                "full_name": "Kansas City Roos"
+            },
+            "home": {
+                "shorthand": "St Thomas",
+                "full_name": "St Thomas Mn Tommies"
+            }
+        },
+        "spread": {
+            "away": 8.5,
+            "home": -8.5
+        },
+        "total": {
+            "over/under": 142.0
+        },
+        "moneyline": {
+            "away": 333,
+            "home": -419
+        }
+    },
+    {
+        "time": "8:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "San Diego St",
+                "full_name": "San Diego State Aztecs"
+            },
+            "home": {
+                "shorthand": "Wyoming",
+                "full_name": "Wyoming Cowboys"
+            }
+        },
+        "spread": {
+            "away": -7.5,
+            "home": 7.5
+        },
+        "total": {
+            "over/under": 131.0
+        },
+        "moneyline": {
+            "away": -325,
+            "home": 260
+        }
+    },
+    {
+        "time": "8:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Santa Clara",
+                "full_name": "Santa Clara Broncos"
+            },
+            "home": {
+                "shorthand": "Pacific",
+                "full_name": "Pacific Tigers"
+            }
+        },
+        "spread": {
+            "away": -13.0,
+            "home": 13.0
+        },
+        "total": {
+            "over/under": 149.5
+        },
+        "moneyline": {
+            "away": -1050,
+            "home": 675
+        }
+    },
+    {
+        "time": "8:30 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Texas A&M",
+                "full_name": "Texas Am Aggies"
+            },
+            "home": {
+                "shorthand": "Florida",
+                "full_name": "Florida Gators"
+            }
+        },
+        "spread": {
+            "away": 8.5,
+            "home": -8.5
+        },
+        "total": {
+            "over/under": 148.0
+        },
+        "moneyline": {
+            "away": 360,
+            "home": -440
+        }
+    },
+    {
+        "time": "9:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Cal Baptist",
+                "full_name": "California Baptist Lancers"
+            },
+            "home": {
+                "shorthand": "Utah Tech",
+                "full_name": "Utah Tech Trailblazers"
+            }
+        },
+        "spread": {
+            "away": -2.5,
+            "home": 2.5
+        },
+        "total": {
+            "over/under": 145.5
+        },
+        "moneyline": {
+            "away": -140,
+            "home": 120
+        }
+    },
+    {
+        "time": "9:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Arizona",
+                "full_name": "Arizona Wildcats"
+            },
+            "home": {
+                "shorthand": "Iowa St",
+                "full_name": "Iowa State Cyclones"
+            }
+        },
+        "spread": {
+            "away": 6.0,
+            "home": -6.0
+        },
+        "total": {
+            "over/under": 151.5
+        },
+        "moneyline": {
+            "away": 220,
+            "home": -270
+        }
+    },
+    {
+        "time": "10:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Washington St",
+                "full_name": "Washington State Cougars"
+            },
+            "home": {
+                "shorthand": "Pepperdine",
+                "full_name": "Pepperdine Waves"
+            }
+        },
+        "spread": {
+            "away": -4.5,
+            "home": 4.5
+        },
+        "total": {
+            "over/under": 160.5
+        },
+        "moneyline": {
+            "away": -204,
+            "home": 172
+        }
+    },
+    {
+        "time": "10:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Oregon St",
+                "full_name": "Oregon State Beavers"
+            },
+            "home": {
+                "shorthand": "Saint Mary's",
+                "full_name": "Saint Marys Gaels"
+            }
+        },
+        "spread": {
+            "away": 11.5,
+            "home": -11.5
+        },
+        "total": {
+            "over/under": 130.0
+        },
+        "moneyline": {
+            "away": 559,
+            "home": -783
+        }
+    },
+    {
+        "time": "10:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "CS Fullerton",
+                "full_name": "Csu Fullerton Titans"
+            },
+            "home": {
+                "shorthand": "UCSD",
+                "full_name": "Uc San Diego Tritons"
+            }
+        },
+        "spread": {
+            "away": 26.5,
+            "home": -26.5
+        },
+        "total": {
+            "over/under": 142.5
+        },
+        "moneyline": {
+            "away": 2200,
+            "home": -8000
+        }
+    },
+    {
+        "time": "10:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Boston College",
+                "full_name": "Boston College Eagles"
+            },
+            "home": {
+                "shorthand": "California",
+                "full_name": "California Golden Bears"
+            }
+        },
+        "spread": {
+            "away": 8.0,
+            "home": -8.0
+        },
+        "total": {
+            "over/under": 144.5
+        },
+        "moneyline": {
+            "away": 290,
+            "home": -360
+        }
+    },
+    {
+        "time": "10:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "West Virginia",
+                "full_name": "West Virginia Mountaineers"
+            },
+            "home": {
+                "shorthand": "BYU",
+                "full_name": "Brigham Young Cougars"
+            }
+        },
+        "spread": {
+            "away": 10.5,
+            "home": -10.5
+        },
+        "total": {
+            "over/under": 139.0
+        },
+        "moneyline": {
+            "away": 425,
+            "home": -575
+        }
+    },
+    {
+        "time": "10:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "N Colorado",
+                "full_name": "Northern Colorado Bears"
+            },
+            "home": {
+                "shorthand": "N Arizona",
+                "full_name": "Northern Arizona Lumberjacks"
+            }
+        },
+        "spread": {
+            "away": -4.0,
+            "home": 4.0
+        },
+        "total": {
+            "over/under": 153.5
+        },
+        "moneyline": {
+            "away": -180,
+            "home": 150
+        }
+    },
+    {
+        "time": "10:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Grand Canyon",
+                "full_name": "Grand Canyon Lopes"
+            },
+            "home": {
+                "shorthand": "Seattle",
+                "full_name": "Seattle Redhawks"
+            }
+        },
+        "spread": {
+            "away": -1.0,
+            "home": 1.0
+        },
+        "total": {
+            "over/under": 142.5
+        },
+        "moneyline": {
+            "away": -113,
+            "home": -107
+        }
+    },
+    {
+        "time": "10:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Portland",
+                "full_name": "Portland Pilots"
+            },
+            "home": {
+                "shorthand": "San Diego",
+                "full_name": "San Diego Toreros"
+            }
+        },
+        "spread": {
+            "away": -2.5,
+            "home": 2.5
+        },
+        "total": {
+            "over/under": 160.5
+        },
+        "moneyline": {
+            "away": -145,
+            "home": 125
+        }
+    },
+    {
+        "time": "10:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Long Beach St",
+                "full_name": "Long Beach State Beach"
+            },
+            "home": {
+                "shorthand": "UC Irvine",
+                "full_name": "Uc Irvine Anteaters"
+            }
+        },
+        "spread": {
+            "away": 16.5,
+            "home": -16.5
+        },
+        "total": {
+            "over/under": 136.0
+        },
+        "moneyline": {
+            "away": 1000,
+            "home": -2250
+        }
+    },
+    {
+        "time": "11:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "Gonzaga",
+                "full_name": "Gonzaga Bulldogs"
+            },
+            "home": {
+                "shorthand": "San Francisco",
+                "full_name": "San Francisco Dons"
+            }
+        },
+        "spread": {
+            "away": -9.0,
+            "home": 9.0
+        },
+        "total": {
+            "over/under": 158.0
+        },
+        "moneyline": {
+            "away": -440,
+            "home": 340
+        }
+    },
+    {
+        "time": "11:59 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "UC Davis",
+                "full_name": "Uc Davis Aggies"
+            },
+            "home": {
+                "shorthand": "Hawai'i",
+                "full_name": "Hawaii Rainbow Warriors"
+            }
+        },
+        "spread": {
+            "away": 3.0,
+            "home": -3.0
+        },
+        "total": {
+            "over/under": 132.0
+        },
+        "moneyline": {
+            "away": 135,
+            "home": -155
+        }
+    },
+    {
+        "time": "7:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "C Arkansas",
+                "full_name": "Central Arkansas Bears"
+            },
+            "home": {
+                "shorthand": "Stetson",
+                "full_name": "Stetson Hatters"
+            }
+        },
+        "spread": {
+            "away": 1.0,
+            "home": -1.0
+        },
+        "total": {
+            "over/under": 143.5
+        },
+        "moneyline": {
+            "away": 105,
+            "home": -125
+        }
+    },
+    {
+        "time": "7:00 PM EST",
+        "teams": {
+            "away": {
+                "shorthand": "N Florida",
+                "full_name": "North Florida Ospreys"
+            },
+            "home": {
+                "shorthand": "Austin Peay",
+                "full_name": "Austin Peay Governors"
+            }
+        },
+        "spread": {
+            "away": -1.5,
+            "home": 1.5
+        },
+        "total": {
+            "over/under": 160.0
+        },
+        "moneyline": {
+            "away": -125,
+            "home": 105
+        }
+    }
+]
